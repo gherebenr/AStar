@@ -13,4 +13,4 @@ Implementation of the A* pathfinding algorithm.
 1) The cost is 2<sup>h2-h1</sup> to move by one node. h1 is the height of the current node, and h2 is the height of the target node.
 2) The red on the map represents all the explored nodes, and the blue represents the chosen path.
 
-## Important: I only wrote AStar.java and Dijkstra.java.
+## I only wrote AStar.java and Dijkstra.java.
